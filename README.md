@@ -11,7 +11,7 @@
 
 ## Portafolio Personal
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Amandaa-S/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Amandaa-S/mat281_portfolio/master?urlpath=lab)
 
 * __Amanda Salinas__ : [My Page](https://github.com/Amandaa-S)
 
